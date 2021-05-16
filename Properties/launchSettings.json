@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Almostengr.VideoManager": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
